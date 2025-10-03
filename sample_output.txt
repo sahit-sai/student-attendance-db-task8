@@ -1,0 +1,5 @@
+Expected Results:
+
+- CALL get_student_attendance(1) → lists Rahul Sharma’s attendance records
+- CALL check_student_age(1, @group) → sets @group = 'Adult'
+- SELECT calculate_attendance_percentage(1) → returns % attendance for student 1
